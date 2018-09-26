@@ -4,7 +4,7 @@ Coding Interview Questions
 # Usage
 
 ```
- > node <code>.js
+ > node code.js
 ```
 
 #Problems
